@@ -1,5 +1,7 @@
 # Number Guessing Game (C++)
 
+[![CI](https://github.com/subhanbhatti50134-jpg/Number-Guessing-Game/actions/workflows/ci.yml/badge.svg)](https://github.com/subhanbhatti50134-jpg/Number-Guessing-Game/actions/workflows/ci.yml)
+
 ![GitHub repository card for Number-Guessing-Game](docs/images/number-guessing.png)
 
 A beginner C++ console game: guess a randomly generated number between 1 and 100,
